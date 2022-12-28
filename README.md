@@ -13,3 +13,4 @@ git commit- make the file trackable finally with the message for every commit
 git restore <filename>-To restore the file that was deleted
 When you create by a repository in local the branch name is Master where as when you create the git repo in github
 the bydefault branch is main
+git push -all of your local commits are added to remote repository in github
