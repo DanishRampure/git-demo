@@ -23,4 +23,5 @@ git push -all of your local commits are added to remote repository in github
 
 pip freeze > reuirements.txt -Command is used for freezing all the installations for the errors that could occur
   This file will have all the versions of dependencies along with there versions
+git checkout -b feature/deploy-app :Create a branch 
   
