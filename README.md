@@ -11,3 +11,5 @@ git log-Summary of operations done on the files which is tracked or commited
 git add-To make the file staged/unstaged in order to tell the git that this file is to be monitor
 git commit- make the file trackable finally with the message for every commit
 git restore <filename>-To restore the file that was deleted
+When you create by a repository in local the branch name is Master where as when you create the git repo in github
+the bydefault branch is main
